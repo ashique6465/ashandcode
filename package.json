@@ -2,11 +2,13 @@
   "name": "ashandcode",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+    
   },
   "dependencies": {
     "next": "15.3.5",
@@ -19,4 +21,5 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11"
   }
+
 }
